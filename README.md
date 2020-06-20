@@ -1,2 +1,2 @@
 # Data-Sync
-This is a Mac Gui Sync Tool
+This is a Mac Gui Sync Tool.
